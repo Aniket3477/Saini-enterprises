@@ -1,0 +1,6 @@
+{
+  "name": "SAINI ENTERPRISES",
+  "description": "Premium Cosmetics, Gift Store & Beauty Essentials in Haridwar, Uttarakhand",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
